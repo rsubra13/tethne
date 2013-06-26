@@ -6,7 +6,7 @@ Tethne is a script for analyzing citation data. It generates a variety of networ
 *An orb-weaving spider in the genus [Tethneus](http://paleodb.org/?a=basicTaxonInfo&taxon_no=133881)*
 
 ## Collecting Web of Science data
-To use Tethne you need a Web of Science data file to work with. One such file is docs/savedrecs.txt. This file was generated from the Web of Science by first following the Web of Science's recommended search "oil spill\* mediterranean" on the Web of Science tab of the Web of Knowledge service.  
+To use Tethne you need a Web of Science data file with which to work. One such file is docs/savedrecs.txt. This file was generated from the Web of Science by first following the Web of Science's recommended search "oil spill\* mediterranean" on the Web of Science tab of the Web of Knowledge service.  
 
 ![alt text](https://github.com/erickpeirson/tethne/blob/python/docs/WebOfScienceSearch.png?raw=true "Web of Science Search")  
 
